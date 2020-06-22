@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In Search of Insight on Siphiwe Mahlangu</title>
+    <link>https://theabstract.github.io/</link>
+    <description>Recent content in In Search of Insight on Siphiwe Mahlangu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://theabstract.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes on Inferential Statistics</title>
+      <link>https://theabstract.github.io/post/statistics/inferential/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theabstract.github.io/post/statistics/inferential/</guid>
+      <description>What is it to infer?
+ infer | ɪnˈfəː | verb (infers, inferring, inferred) [with object] deduce or conclude (something) from evidence and reasoning rather than from explicit statements: [with clause] : from these facts we can infer that crime has been increasing.
+&amp;ndash; Oxford Dictionary of English, 2019
+ Published here is a rendered .Rmd file containing notes on inferential statistics with examples demostrating the use of;
+ the Z-score and empirical rule Confidence Intervals Bernoulli distributions.</description>
+    </item>
+    
+    <item>
+      <title>Multivariate Linear Regression</title>
+      <link>https://theabstract.github.io/post/statistics/mlr/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theabstract.github.io/post/statistics/mlr/</guid>
+      <description>Goal Using data adaped from Cohen, Cohen, West &amp;amp; Aiken. Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences, 3rd Edition. Build a model to predict employee salaries from different employee characteristics.
+Techniques used
+ Correlation analysis One-hot encoding Multilinear regression Risidual analysis  Full details here.</description>
+    </item>
+    
+    <item>
+      <title>Optimisation with Julia</title>
+      <link>https://theabstract.github.io/post/optimisation-julia/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://theabstract.github.io/post/optimisation-julia/</guid>
+      <description>Optimisation problems generally take the following form;
+ objective function(s) decision variables constraints.  The goal is to find values for the decision variables that optimise (maximise or minimise) the objective function within a set of given constraints. A linear programming problem (“LP”) is an optimisation problem for which:
+ We seek to maximise (or minimise) a linear function of the decision variables. For any variable x we must have either x is nonnegative or is unrestricted in sign.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://theabstract.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theabstract.github.io/contact/</guid>
+      <description>The easiest way to reach me is by email: siphiwe.mahlangu@umuzi.org.
+   You can also find me here      GitHub: https://github.com/TheAbstract    </description>
+    </item>
+    
+  </channel>
+</rss>
